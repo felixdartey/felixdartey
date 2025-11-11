@@ -14,12 +14,16 @@ I am eager to contribute to a forward-thinking organization where I can continue
 | Category          | Skills |
 |------------------|--------|
 | **Operating Systems** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
-| **Networking**       | ![TCP/IP](https://img.shields.io/badge/TCP/IP-008080?style=for-the-badge) ![DNS](https://img.shields.io/badge/DNS-4B0082?style=for-the-badge) ![VPN](https://img.shields.io/badge/VPN-FF4500?style=for-the-badge) ![LAN/WAN](https://img.shields.io/badge/LAN/WAN-20B2AA?style=for-the-badge) |
-| **IT Support Tools** | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge) ![Remote Desktop](https://img.shields.io/badge/Remote_Desktop-FF69B4?style=for-the-badge) ![ServiceNow](https://img.shields.io/badge/ServiceNow-00B57D?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge) |
+| **Networking**       | ![TCP/IP](https://img.shields.io/badge/TCP/IP-008080?style=for-the-badge) ![DNS](https://img.shields.io/badge/DNS-4B0082?style=for-the-badge) ![VPN](https://img.shields.io/badge/VPN-FF4500?style=for-the-badge) ![LAN/WAN](https://img.shields.io/badge/LAN/WAN-20B2AA?style=for-the-badge) ![DHCP](https://img.shields.io/badge/DHCP-008000?style=for-the-badge&logo=cisco&logoColor=white)|
+| **IT Support Tools** | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge) ![Remote Desktop](https://img.shields.io/badge/Remote_Desktop-FF69B4?style=for-the-badge) ![OSTicket](https://img.shields.io/badge/OSTicket-FF6C37?style=for-the-badge&logo=osticket&logoColor=white) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)|
 | **Hardware**         | ![PC](https://img.shields.io/badge/PC-808080?style=for-the-badge) ![Printer](https://img.shields.io/badge/Printer-DAA520?style=for-the-badge) ![Peripherals](https://img.shields.io/badge/Peripherals-20B2AA?style=for-the-badge) |
 | **Cloud Platforms**  | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  |
 | **Scripting / Automation** | ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | **Security**         | ![Antivirus](https://img.shields.io/badge/Antivirus-FF0000?style=for-the-badge) ![Firewall](https://img.shields.io/badge/Firewall-FF8C00?style=for-the-badge) ![Backup](https://img.shields.io/badge/Backup-20B2AA?style=for-the-badge) |
+
+
+
+
 
 
 ## Tools
