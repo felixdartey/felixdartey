@@ -30,16 +30,9 @@ I am eager to contribute to a forward-thinking organization where I can continue
 | **Cloud & Virtualization**       | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 | **Networking & Monitoring**      | ![Wireshark](https://img.shields.io/badge/Wireshark-1BA0E2?style=for-the-badge&logo=wireshark&logoColor=white) |
 | **Remote Support & Management**  | ![Active Directory](https://img.shields.io/badge/Active_Directory-107C10?style=for-the-badge&logo=windows-server&logoColor=white) ![Remote Desktop](https://img.shields.io/badge/Remote_Desktop-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white) ![CMD](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows&logoColor=white) |
-| **Ticketing & Productivity**     | ![OSTicket](https://img.shields.io/badge/OSTicket-FF6C37?style=for-the-badge&logo=osticket&logoColor=white) |
+| **Ticketing & Productivity**     | ![OSTicket](https://img.shields.io/badge/OSTicket-FF6C37?style=for-the-badge&logo=osticket&logoColor=white) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+|
 
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
-</div>
 
 
 
@@ -50,7 +43,9 @@ I am eager to contribute to a forward-thinking organization where I can continue
 | **osTicket (Help Desk Ticketing System)** | - osTicket: Prerequisites and Installation<br>- osTicket: Post-Installation Configuration<br>- osTicket: Ticket Lifecycle Examples | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 | **Active Directory in Azure** | - Preparing Active Directory Infrastructure in Azure<br>- Configuring On-premises Active Directory within Azure VMs<br>- Configuring GPO, unlocking user accounts, and resetting passwords | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft-active-directory&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white) |
 | **Network File Shares** | - Configuring file shares and managing permissions | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-00A9E0?style=for-the-badge) |
-| **Remote Support** | - Remote Support with RDP & TeamViewer | ![RDP](https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-1BA0E1?style=for-the-badge&logo=teamviewer&logoColor=white) |
+| **Remote Support** | - Remote Support with RDP & TeamViewer | ![RDP](https://img.shields.io/badge/RDP-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-1BA0E1?style=for-the-badge&logo=teamviewer&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)|
 | **Knowledge Base** | - Build a Knowledge Base for Common Issues | ![Documentation](https://img.shields.io/badge/Docs-6CC24A?style=for-the-badge) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
+| **Microsoft Intune (Device Management)** | - Setting up Intune environment in Azure<br>- Enrolling Windows devices<br>- Configuring compliance policies and profiles<br>- Managing applications and updates | ![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+
 
 
