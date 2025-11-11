@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Felix — IT Support Specialist
-<a href="https://linkedin.com/in/felix-dartey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:felix@example.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/felixdartey"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 I’m an enthusiastic **IT Support Specialist** passionate about helping organizations maintain smooth and secure systems.  
 I enjoy troubleshooting technical issues, improving network reliability, and creating efficient solutions that make everyday IT operations easier.
